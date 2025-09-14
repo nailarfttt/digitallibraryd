@@ -15,7 +15,7 @@ Berikut ini adalah koleksi yang dimiliki:
 8. [Rides on Railways](ebook/Rides-on-Railways.pdf) - Samuel Sidney (1851)
 9. [Tenggelamnya Kapan Van Der Wijck](ebook/Tenggelamnya kapal van der wijck.pdf) - Hamka (1984)
 10. [Yang Fana adalah Waktu](ebook/Yang fana adalah waktu.pdf) - Sapardi Djoko Damono (2018)
-11. [Ringkasan Kuliah Umum](ebook/Ringkasan Kuliah Umum.pdf) - Naila Nisrina H. Rif'ati (2025)
+11. [Ringkasan Kuliah Umum](ebook/Ringkasan Kuliah Umum.pdf) - Naila Nisrina H. Rif'ati (13040123140152)
 
 ---
 
