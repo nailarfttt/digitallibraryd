@@ -13,8 +13,8 @@ Berikut ini adalah koleksi yang dimiliki:
 6. [Matahari](ebook/Tere_Liye_-_Matahari.pdf.pdf) - Tere Liye (2016)
 7. [Pada Senja yang Membawamu Pergi](ebook/Boy Candra - Pada Senja yg membawamu pergi.pdf) - Boy Candra (2016)
 8. [Rides on Railways](ebook/Rides-on-Railways.pdf) - Samuel Sidney (1851)
-9. [Senja, Hujan, & Cerita yang Telah Usai](ebook/Boy Candra - Senja_Hujan_ Cerita yang Telah Usai .pdf) - Boy Candra (2015)
-10. [Tenggelamnya Kapan Van Der Wijck](ebook/Tenggelamnya kapal van der wijck.pdf) - Hamka (1984)
+9. [Tenggelamnya Kapan Van Der Wijck](ebook/Tenggelamnya kapal van der wijck.pdf) - Hamka (1984)
+10. [Yang Fana adalah Waktu](ebook/Yang fana adalah waktu.pdf) - Sapardi Djoko Damono (2018)
 11. [Ringkasan Kuliah Umum](ebook/Ringkasan Kuliah Umum.pdf) - Naila Nisrina H. Rif'ati (2025)
 
 ---
