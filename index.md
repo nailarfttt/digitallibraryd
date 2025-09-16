@@ -18,5 +18,5 @@ Berikut ini adalah koleksi yang dimiliki:
 11. [Ringkasan Kuliah Umum](ebook/Ringkasan Kuliah Umum.pdf) - Naila Nisrina Huwaidah Rif'ati (13040123140152)
 
 ---
-
+https://github.com/nailarfttt/digitallibraryd/tree/704cfb8813af5fceedac777c1cee09412e674583/webti
 *Powered by GitHub Pages*
