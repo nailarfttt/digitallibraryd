@@ -19,13 +19,13 @@ Berikut ini adalah koleksi yang dimiliki:
 
 ---
 
-<a href="index.md">index.html</a>
-<a href="webti/halaman1.html">halaman1.html</a> 
-<a href="webti/halaman2.html">halaman2.html</a>
-<a href="webti/halaman3.html">halaman3.html</a>
-<a href="webti/halaman4.html">halaman4.html</a>
-<a href="webti/halaman5.html">halaman5.html</a>
-<a href="webti/halaman6.html">halaman6.html</a>
-<a href="webti/halaman7.html">halaman7.html</a>
+<a href="digitallibraryd/index.md">index.html</a>
+<a href="webti/halaman1.html">Halaman 1</a> 
+<a href="webti/halaman2.html">Halaman 2</a>
+<a href="webti/halaman3.html">Halaman 3</a>
+<a href="webti/halaman4.html">Halaman 4</a>
+<a href="webti/halaman5.html">Halaman 5</a>
+<a href="webti/halaman6.html">Halaman 6</a>
+<a href="webti/halaman7.html">Halaman 7</a>
 
 *Powered by GitHub Pages*
