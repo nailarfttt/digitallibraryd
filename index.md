@@ -19,6 +19,7 @@ Berikut ini adalah koleksi yang dimiliki:
 
 ---
 
+<a href="index.md">index.html</a>
 <a href="webti/halaman1.html">halaman1.html</a> 
 <a href="webti/halaman2.html">halaman2.html</a>
 <a href="webti/halaman3.html">halaman3.html</a>
