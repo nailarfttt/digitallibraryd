@@ -19,7 +19,7 @@ Berikut ini adalah koleksi yang dimiliki:
 
 ---
 
-<a href="digitallibraryd/index.md">index.html</a>
+<a href="nailarfttt.github.io/digitallibraryd/">Index</a>
 <a href="halaman1.html">Halaman 1</a> |
 <a href="halaman2.html">Halaman 2</a> |
 <a href="halaman3.html">Halaman 3</a> |
